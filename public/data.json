@@ -1,0 +1,392 @@
+[
+  {
+    "collegeName": "Harmony University",
+    "about": "Harmony University is a prestigious public university known for its diverse academic programs and strong community engagement.",
+    "contactInformation": {
+      "email": "info@harmony.edu",
+      "phone": "+1 (555) 123-4567",
+      "website": "https://www.harmony.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Public",
+      "size": "Very Large",
+      "location": "Rural",
+      "graduationRate": "60%",
+      "averageNetAnnualCost": "$18K",
+      "satRange": "1020–1260"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Harmony University offers a holistic approach to admissions, considering various factors in addition to academic achievements.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Required",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Required",
+        "satActScores": "Neither required nor recommended",
+        "recommendations": "Considered but not required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$70",
+        "feeWaiverInfo": "Available to all qualified students. Visit the college website for details."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/nQZZC8T/1209458-min.jpg",
+    "collegeRating": 4.7,
+    "admissionDate": "2023-09-01",
+    "researchCount": 85,
+    "researchWorks": "Harmony University is at the forefront of research, with ongoing projects in various fields like environmental science, renewable energy, and data analytics.",
+    "events": [
+      {
+        "eventName": "Annual Unity Fest",
+        "date": "2023-11-15",
+        "description": "The Unity Fest brings together students and faculty from diverse backgrounds to celebrate cultural harmony and promote understanding.",
+        "targetAudience": "Open to all students and faculty"
+      },
+      {
+        "eventName": "Innovation Symposium",
+        "date": "2023-10-20",
+        "description": "The Innovation Symposium showcases groundbreaking research and inventions from students and faculty, fostering an atmosphere of creativity and collaboration.",
+        "targetAudience": "Open to all students, faculty, and industry professionals"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Basketball",
+        "men": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"],
+        "women": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      },
+      {
+        "sportName": "Soccer",
+        "men": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"],
+        "women": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      }
+    ]
+  },
+
+  {
+    "collegeName": "Liberty College",
+    "about": "Liberty College is a private liberal arts college renowned for its commitment to academic excellence and nurturing students' personal growth.",
+    "contactInformation": {
+      "email": "admissions@libertycollege.edu",
+      "phone": "+1 (555) 987-6543",
+      "website": "https://www.libertycollege.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Private",
+      "size": "Medium",
+      "location": "Suburban",
+      "graduationRate": "65%",
+      "averageNetAnnualCost": "$20K",
+      "satRange": "1100–1300"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Liberty College values students' unique qualities and seeks candidates who demonstrate a passion for learning and a commitment to making a positive impact.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Required",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Required",
+        "satActScores": "Recommended",
+        "recommendations": "Required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$50",
+        "feeWaiverInfo": "Fee waivers are available for eligible applicants. Please visit the college website for details."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/BfPYDVX/1209477-min.jpg",
+    "collegeRating": 4.9,
+    "admissionDate": "2023-08-25",
+    "researchCount": 72,
+    "researchWorks": "Liberty College encourages cutting-edge research in various fields, including social sciences, technology, and creative arts.",
+    "events": [
+      {
+        "eventName": "Welcome Week",
+        "date": "2023-09-05",
+        "description": "Welcome Week is a fun-filled event introducing new students to college life, providing opportunities to meet classmates, and explore the campus.",
+        "targetAudience": "Newly admitted students"
+      },
+      {
+        "eventName": "Spring Fling",
+        "date": "2024-03-20",
+        "description": "Spring Fling is a campus-wide celebration featuring live music, food trucks, and various activities to promote a sense of community and camaraderie.",
+        "targetAudience": "Open to all students, faculty, and staff"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Volleyball",
+        "women": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      },
+      {
+        "sportName": "Swimming",
+        "men": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"],
+        "women": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      }
+    ]
+  },
+
+  {
+    "collegeName": "Northern State University",
+    "about": "Northern State University is a comprehensive regional institution, dedicated to fostering intellectual curiosity and preparing students for a successful future.",
+    "contactInformation": {
+      "email": "info@northernstate.edu",
+      "phone": "+1 (555) 234-5678",
+      "website": "https://www.northernstate.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Public",
+      "size": "Medium",
+      "location": "Urban",
+      "graduationRate": "55%",
+      "averageNetAnnualCost": "$15K",
+      "satRange": "1000–1200"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Northern State University seeks students who are intellectually curious, demonstrate strong academic potential, and contribute to the campus community.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Required",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Recommended",
+        "satActScores": "Required",
+        "recommendations": "Considered but not required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$40",
+        "feeWaiverInfo": "Application fee waivers are available for eligible students. Please visit the college website for more information."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/7Jytg3S/1209492-min.jpg",
+    "collegeRating": 4.3,
+    "admissionDate": "2023-08-20",
+    "researchCount": 95,
+    "researchWorks": "Northern State University actively participates in research projects related to environmental sustainability, education, and healthcare.",
+    "events": [
+      {
+        "eventName": "Career Fair",
+        "date": "2023-10-10",
+        "description": "The Career Fair provides students with the opportunity to explore career paths, network with employers, and seek internship opportunities.",
+        "targetAudience": "Open to all students"
+      },
+      {
+        "eventName": "Homecoming Week",
+        "date": "2023-11-03",
+        "description": "Homecoming Week is a time-honored tradition celebrating school spirit, featuring a parade, sports events, and alumni gatherings.",
+        "targetAudience": "Students, alumni, and faculty"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Soccer",
+        "men": ["Intercollegiate", "NCAA Division II"],
+        "women": ["Intercollegiate", "NCAA Division II"]
+      },
+      {
+        "sportName": "Track and Field",
+        "men": ["Intercollegiate", "NCAA Division II"],
+        "women": ["Intercollegiate", "NCAA Division II"]
+      }
+    ]
+  },
+  {
+    "collegeName": "Greenwood College",
+    "about": "Greenwood College is a progressive private college renowned for its innovative approach to education and nurturing a global perspective.",
+    "contactInformation": {
+      "email": "admissions@greenwoodcollege.edu",
+      "phone": "+1 (555) 345-6789",
+      "website": "https://www.greenwoodcollege.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Private",
+      "size": "Small",
+      "location": "Urban",
+      "graduationRate": "75%",
+      "averageNetAnnualCost": "$25K",
+      "satRange": "1200–1400"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Greenwood College looks for students who demonstrate intellectual curiosity, creativity, and a desire to make a positive impact on the world.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Recommended",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Required",
+        "satActScores": "Required",
+        "recommendations": "Required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$60",
+        "feeWaiverInfo": "Fee waivers are available for students with demonstrated financial need. Please check the college website for eligibility criteria."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/zRt8kFk/1209547-min.jpg",
+    "collegeRating": 4.5,
+    "admissionDate": "2023-09-10",
+    "researchCount": 120,
+    "researchWorks": "Greenwood College encourages research in emerging fields such as artificial intelligence, sustainable architecture, and global health.",
+    "events": [
+      {
+        "eventName": "International Education Week",
+        "date": "2023-11-20",
+        "description": "International Education Week celebrates cultural diversity, featuring international cuisine, workshops, and presentations on global issues.",
+        "targetAudience": "Open to all students, faculty, and the community"
+      },
+      {
+        "eventName": "Innovation Showcase",
+        "date": "2024-02-15",
+        "description": "The Innovation Showcase highlights student projects and inventions, encouraging entrepreneurship and problem-solving.",
+        "targetAudience": "Open to all students and industry professionals"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Tennis",
+        "men": ["Intercollegiate", "NCAA Division III"],
+        "women": ["Intercollegiate", "NCAA Division III"]
+      },
+      {
+        "sportName": "Golf",
+        "men": ["Club"],
+        "women": ["Club"]
+      }
+    ]
+  },
+  {
+    "collegeName": "Mountview University",
+    "about": "Mountview University is a leading research-focused public university, committed to academic excellence and community engagement.",
+    "contactInformation": {
+      "email": "contact@mountview.edu",
+      "phone": "+1 (555) 789-0123",
+      "website": "https://www.mountview.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Public",
+      "size": "Large",
+      "location": "Suburban",
+      "graduationRate": "70%",
+      "averageNetAnnualCost": "$22K",
+      "satRange": "1150–1350"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Mountview University seeks intellectually curious students who are passionate about making a difference in society.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Recommended",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Required",
+        "satActScores": "Recommended",
+        "recommendations": "Required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$55",
+        "feeWaiverInfo": "Fee waivers are available for eligible applicants. Please visit the college website for more details."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/2nb3p2d/1209611-min.jpg",
+    "collegeRating": 4.6,
+    "admissionDate": "2023-08-30",
+    "researchCount": 88,
+    "researchWorks": "Mountview University excels in research areas such as climate change, medical sciences, and artificial intelligence.",
+    "events": [
+      {
+        "eventName": "Research Symposium",
+        "date": "2023-10-25",
+        "description": "The Research Symposium showcases groundbreaking research from students and faculty, promoting interdisciplinary collaboration.",
+        "targetAudience": "Open to all students, faculty, and industry professionals"
+      },
+      {
+        "eventName": "Cultural Fest",
+        "date": "2023-11-05",
+        "description": "Cultural Fest celebrates diversity through performances, food stalls, and exhibits representing various cultures.",
+        "targetAudience": "Open to all students and the community"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Football",
+        "men": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      },
+      {
+        "sportName": "Lacrosse",
+        "women": ["Intercollegiate", "NCAA Division I", "Offers Scholarships"]
+      }
+    ]
+  },
+  {
+    "collegeName": "Eastbrook College",
+    "about": "Eastbrook College is a forward-thinking private college dedicated to preparing students for success in a rapidly changing world.",
+    "contactInformation": {
+      "email": "admissions@eastbrookcollege.edu",
+      "phone": "+1 (555) 901-2345",
+      "website": "https://www.eastbrookcollege.edu"
+    },
+    "overview": {
+      "collegeType": "4-year",
+      "ownership": "Private",
+      "size": "Small",
+      "location": "Urban",
+      "graduationRate": "80%",
+      "averageNetAnnualCost": "$28K",
+      "satRange": "1250–1450"
+    },
+    "admissionProcess": {
+      "admissionsSummary": "Eastbrook College seeks intellectually curious students with a passion for innovation and a commitment to community service.",
+      "applicationRequirements": {
+        "highSchoolGPA": "Recommended",
+        "highSchoolRank": "Considered but not required",
+        "collegePrepCourses": "Recommended",
+        "satActScores": "Recommended",
+        "recommendations": "Required"
+      },
+      "applicationProcess": {
+        "applicationFee": "$75",
+        "feeWaiverInfo": "Application fee waivers are available for students with demonstrated financial need. Please check the college website for more information."
+      }
+    },
+    "collegeImage": "https://i.ibb.co/HhhLSt4/1209649-min.jpg",
+    "collegeRating": 4.4,
+    "admissionDate": "2023-09-15",
+    "researchCount": 105,
+    "researchWorks": "Eastbrook College is at the forefront of innovative research, including areas like renewable energy, human-computer interaction, and entrepreneurship.",
+    "events": [
+      {
+        "eventName": "Innovation Expo",
+        "date": "2023-10-30",
+        "description": "The Innovation Expo showcases cutting-edge projects and startups from students and alumni, promoting entrepreneurship.",
+        "targetAudience": "Open to all students and industry professionals"
+      },
+      {
+        "eventName": "Community Service Day",
+        "date": "2023-11-08",
+        "description": "Community Service Day engages students in various volunteer activities, fostering a sense of social responsibility.",
+        "targetAudience": "Open to all students"
+      }
+    ],
+    "sports": [
+      {
+        "sportName": "Tennis",
+        "women": ["Intercollegiate", "NCAA Division III"]
+      },
+      {
+        "sportName": "Golf",
+        "men": ["Club"],
+        "women": ["Club"]
+      }
+    ]
+  }
+]
+
+
+
+
+
+// 
+// 
+// 
+// 
+// 
+// 
+// https://i.ibb.co/jyqR1Bf/1209701-min.jpg
+// https://i.ibb.co/x1Z1Mjx/1209746-min.jpg
+// https://i.ibb.co/tLdPTsF/1209769-min.jpg
