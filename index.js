@@ -76,25 +76,28 @@ async function run() {
 
         app.get("/myCollege", async (req, res) => {
             const userEmail = req.query.userEmail;
-          
-            try {
-              const selectedColleges = await SelectedCollege.find({ CandidateEmail: userEmail }).toArray();
-              if (!selectedColleges || selectedColleges.length === 0) {
-                return res.status(404).send({ error: "Selected colleges not found for the user" });
-              }
-              res.send(selectedColleges);
-            } catch (error) {
-              console.error("Error fetching selected colleges data:", error);
-              res.status(500).send({ error: "Error fetching selected colleges data" });
-            }
-          });
-          
 
-    
+            try {
+                const selectedColleges = await SelectedCollege.find({ CandidateEmail: userEmail }).toArray();
+                if (!selectedColleges || selectedColleges.length === 0) {
+                    return res.status(404).send({ error: "Selected colleges not found for the user" });
+                }
+                res.send(selectedColleges);
+            } catch (error) {
+                console.error("Error fetching selected colleges data:", error);
+                res.status(500).send({ error: "Error fetching selected colleges data" });
+            }
+        });
+
+
+
 
         // Send a ping to confirm a successful connection
         await client.db("admin").command({ ping: 1 });
         console.log("Pinged your deployment. You successfully connected to MongoDB!");
+    } catch (error) {
+        console.error("Error during database connection:", error);
+        // You can also add appropriate error handling here for other parts of the code
     } finally {
         // Ensures that the client will close when you finish/error
         // await client.close();
